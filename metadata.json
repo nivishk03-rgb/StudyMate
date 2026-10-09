@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "An adaptive AI study companion that transforms your study material into personalized learning, practice, examination, and revision experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
